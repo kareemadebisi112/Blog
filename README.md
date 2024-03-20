@@ -1,0 +1,2 @@
+# Blog
+ Generic blog project
